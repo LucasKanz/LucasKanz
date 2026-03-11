@@ -39,6 +39,7 @@ Sou um profissional em transição da Engenharia para a área de Tecnologia, foc
 <a href="mailto:lucaskanzler.wol@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
+<br>
 <a href="https://www.linkedin.com/in/lucas-kanzler-wohl-4a395b196" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
