@@ -1,7 +1,8 @@
 <div align="center">
 <h1>Bom dia, boa tarde e boa noite!</h1>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpsY2gzMjY0Y3F6dWV5OTZ4MGQ1aW43MmtqbzN1YTZhamUzbXc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" alt="Gmail Badge" width="15%"/>
 </div>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/LucasKanz/LucasKanz/output/github-contribution-grid-snake.svg)
 
 ## Eu
 
@@ -48,6 +49,3 @@ Sou um profissional em transição da Engenharia para a área de Tecnologia, foc
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasKanz&theme=dracula)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKanz&layout=compact&theme=dracula&hide_border=true)
-
-## 🐍 Snake Game
-![github contribution grid snake animation](https://raw.githubusercontent.com/LucasKanz/LucasKanz/output/github-contribution-grid-snake.svg)
