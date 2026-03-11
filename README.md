@@ -2,7 +2,7 @@
 <h1>Bom dia, boa tarde e boa noite!</h1>
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/LucasKanz/LucasKanz/output/github-contribution-grid-snake.svg)
+![Snake Game](https://raw.githubusercontent.com/LucasKanz/LucasKanz/output/github-contribution-grid-snake-dark.svg)
 
 ## Eu
 
