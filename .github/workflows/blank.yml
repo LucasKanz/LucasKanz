@@ -2,7 +2,7 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 */24 * * *" # roda a cada 24 horas
   workflow_dispatch:
   push:
     branches:
